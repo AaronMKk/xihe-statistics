@@ -10,8 +10,8 @@ require (
 	github.com/swaggo/files v1.0.1
 	github.com/swaggo/gin-swagger v1.6.0
 	github.com/swaggo/swag v1.16.2
-	gorm.io/driver/postgres v1.5.2
-	gorm.io/gorm v1.25.4
+	gorm.io/driver/postgres v1.3.8
+	gorm.io/gorm v1.23.6
 	sigs.k8s.io/yaml v1.3.0
 )
 
